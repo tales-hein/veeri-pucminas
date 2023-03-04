@@ -1,11 +1,4 @@
-# Instruções de utilização
+#SOBRE
 
-## Instalação do Site
-
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
+Projeto de um site estático feito durante a matéria de projeto do primeiro semestre.
+A proposta dada pela universidae é o desenvolvimento da página só com JS, CSS, HTML, sem o uso de qualquer back-end.
