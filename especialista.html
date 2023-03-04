@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Veeri</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/especialista.css">
+    <!-- API SmtpJS -->
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,500,1,0" />
+</head>
+
+<body>
+    <!--    HEADER       -->
+    <header id="navbar">
+        <a href="index.html">
+            <img src="images/logo.png" id="logo" alt="Veeri logotipo" />
+        </a>
+        <nav>
+            <a href="especialista.html">
+                <span class="material-symbols-outlined" style="font-size: 2.2rem;color: white;">
+                    quick_reference_all
+                </span>
+            </a>
+            <a href="ranking.html">
+                <span class="material-symbols-outlined" style="font-size: 2.2rem;color: white;">
+                    history
+                </span>
+            </a>
+            <a href="faq.html">
+                <span class="material-symbols-outlined" style="font-size: 2.2rem;color: white;">
+                    help
+                </span>
+            </a>
+        </nav>
+    </header>
+
+
+    <!--    E-MAIL       -->
+    <section id="busca-noticia">
+        <h2>
+            Nossa plataforma utiliza-se de algoritmos para buscar se uma
+            informação já foi classificada como falsa. <br>
+            Porém, disponibilizamos o acesso a verificação feita por humanos.
+            Para solicitar bastar preencher o formulário abaixo: (Você receberá um e-mail confirmando o recebimento da
+            sua requisição)
+        </h2>
+        <br>
+        <form onsubmit="">
+            <input id="link-noticia" placeholder="Digite o link da sua notícia" type="text" onblur="validarLink()" />
+            <div id="container-erro-link" style="height: 2rem;"></div>
+            <input id="email" placeholder="Digite o seu e-mail" type="text" onblur="validarEmail()" />
+            <div id="container-erro-email" style="height: 2rem;"></div>
+            <br>
+            <h2>
+                Gostaria de adicionar mais alguma informação?
+            </h2>
+            <textarea id="texto" class="textarea" placeholder="Informações adicionais"></textarea>
+            <br>
+        </form>
+        <div id="wrapperenviar">
+            <button class="enviar" id="enviar">Enviar</button>
+        </div>
+    </section>
+
+
+    <!--    FOOTER       -->
+    <footer id="footer">
+        <p>© 2022 VEERI</p>
+        <a href="mailto:veeri.oficial@gmail.com">
+            <p>veeri.oficial@gmail.com</p>
+        </a>
+    </footer>
+</body>
+
+<script src="js/especialista.js"></script>
+
+</html>

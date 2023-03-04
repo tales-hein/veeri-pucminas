@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    font-family: 'Space Mono', monospace;
+    box-sizing: border-box;
+    --preto: #00100B;
+    --preto-ligth: rgba(0, 16, 11, 0.35);
+    --alturaHeader: 95px;
+    --alturaFooter: 40px;
+    --azul: #7D83FF;
+    --red: red;
+    font-size: 16px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    margin: var(--alturaHeader) auto 0 auto;
+}
+
+#navbar, #footer {
+    background-color: var(--preto);
+    width: 100%;
+    padding: 0 10%;
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    z-index: 5;
+}
+
+#navbar {
+    height: var(--alturaHeader);
+    flex-shrink: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    align-content: center;
+}
+
+#navbar nav {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+#navbar nav img {
+    width: 30px;
+    height: 30px;
+}
+
+#footer {
+    height: var(--alturaFooter);
+    flex-shrink: 0;
+    align-items: center;
+}
+
+#logo {
+    width: 158px;
+    height: 95px;
+}
+
+input:invalid {
+    background-color: ivory;
+    border: none;
+    outline: 2px solid var(--red);
+    border-radius: 5px;
+}

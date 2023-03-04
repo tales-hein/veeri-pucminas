@@ -1,0 +1,164 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "link": "",
+            "status": ""
+        },
+        {
+            "id": 1,
+            "link": "https://lupa.uol.com.br/jornalismo/2022/11/17/bolsonaro-gettr-telegram",
+            "status": "v"
+        },
+        {
+            "id": 2,
+            "link": "https://veja.abril.com.br/coluna/jose-casado/alerta-dos-eua-sobre-protestos-mobiliza-lula-e-alckmin/",
+            "status": "v"
+        },
+        {
+            "id": 3,
+            "link": "https://noticias.r7.com/internacional/ditador-da-coreia-do-norte-ordena-que-bebes-recebam-nomes-mais-patriotas-como-bomba-e-arma-04122022",
+            "status": "f"
+        },
+        {
+            "id": 4,
+            "link": "https://jovempan.com.br/programas/os-pingos-nos-is/bolsonaro-esta-entregando-brasil-que-deu-certo-diz-ana-paula.html",
+            "status": "f"
+        },
+        {
+            "id": 5,
+            "link": "https://jovempan.com.br/programas/3-em-1/bolsonaristas-serao-perseguidos-um-a-um-quando-lula-chegar-ao-poder-opina-constantino.html",
+            "status": "f"
+        },
+        {
+            "id": 6,
+            "link": "https://jovempan.com.br/programas/3-em-1/constantino-diz-que-brasil-pode-repetir-peru-se-lula-subir-a-rampa-bye-bye-democracia.html",
+            "status": "f"
+        },
+        {
+            "id": 7,
+            "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2014/03/26/ditador-da-coreia-do-norte-impoe-o-proprio-corte-de-cabelo-aos-homens-do-pais.htm",
+            "status": "f"
+        },
+        {
+            "id": 8,
+            "link": "https://pleno.news/mundo/politica-internacional/coreia-do-norte-ordena-nomes-como-bomba-e-arma-em-bebes.html",
+            "status": "f"
+        },
+        {
+            "id": 9,
+            "link": "https://revistacrescer.globo.com/guia-de-nomes/nomes-de-bebes/noticia/2022/12/coreia-do-norte-quer-que-pais-deem-nomes-patrioticos-aos-filhos-como-arma-bomba-e-satelite.ghtml",
+            "status": "f"
+        },
+        {
+            "id": 10,
+            "link": "https://www.poder360.com.br/internacional/coreia-do-norte-proibe-risadas-e-sorrisos-por-11-dias/",
+            "status": "f"
+        },
+        {
+            "id": 11,
+            "link": "https://exame.com/pop/coreia-do-norte-proibe-demonstracoes-de-alegria-durante-11-dias-entenda/",
+            "status": "f"
+        },
+        {
+            "id": 12,
+            "link": "https://veja.abril.com.br/mundo/hoje-8-de-julho-e-proibido-sorrir-na-coreia-do-norte/",
+            "status": "f"
+        },
+        {
+            "id": 13,
+            "link": "https://www.terra.com.br/economia/sao-11-dias-sem-poder-nem-sorrir-na-coreia-do-norte,e085b100fbceefe1d9586e4a6ed4b074tqjkb4zd.html",
+            "status": "f"
+        },
+        {
+            "id": 14,
+            "link": "https://g1.globo.com/mundo/noticia/2021/12/19/coreia-do-norte-proibe-demonstracoes-de-felicidade-por-11-dias.ghtml",
+            "status": "f"
+        },
+        {
+            "id": 15,
+            "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/12/09/ex-militar-preso-acusado-de-organizar-golpe-contra-o-governo-alemao-ja-morou-no-brasil-e-tem-empresas-em-sc.ghtml",
+            "status": "v"
+        },
+        {
+            "id": 16,
+            "link": "https://www.cnnbrasil.com.br/saude/vacina-e-segura-e-eficaz-para-evitar-casos-graves-e-mortes-diz-sanitarista/",
+            "status": "v"
+        },
+        {
+            "id": 17,
+            "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-critica-passaporte-vacinal-e-defende-restricoes-para-imunizar-criancas/",
+            "status": "v"
+        },
+        {
+            "id": 18,
+            "link": "https://www.cnnbrasil.com.br/politica/bolsonaro-critica-passaporte-vacinal-e-defende-restricoes-para-imunizar-criancas/",
+            "status": "v"
+        },
+        {
+            "id": 19,
+            "link": "https://www.cnnbrasil.com.br/nacional/pobreza-leva-criancas-e-adolescentes-para-trabalho-informal-e-evasao-escolar/",
+            "status": "v"
+        },
+        {
+            "id": 20,
+            "link": "https://g1.globo.com/educacao/noticia/2021/04/30/paulo-guedes-critica-o-fies-e-diz-que-filho-de-porteiro-tirou-zero-na-prova-e-conseguiu-financiamento.ghtml",
+            "status": "v"
+        },
+        {
+            "id": 21,
+            "link": "https://g1.globo.com/politica/noticia/2021/04/27/guedes-diz-que-chines-inventou-virus-da-covid-e-que-vacina-do-pais-e-menos-efetiva-que-a-dos-eua.ghtml",
+            "status": "v"
+        },
+        {
+            "id": 22,
+            "link": "https://jornalggn.com.br/educacao/bolsonaro-corta-bolsa-capes-de-200-mil-estudantes/",
+            "status": "v"
+        },
+        {
+            "id": 23,
+            "link": "https://www.estadao.com.br/economia/governo-bolsonaro-corta-mais-em-educacao-ciencia-e-saude-no-orcamento-de-2022-diz-orgao-do-senado/",
+            "status": "v"
+        },
+        {
+            "id": 24,
+            "link": "https://butantan.gov.br/noticias/seis-razoes-para-voltar-a-usar-mascara-que-podem-ajudar-a-conter-nova-onda-de-covid-19-no-pais",
+            "status": "v"
+        },
+        {
+            "id": 25,
+            "link": "https://www.benegrip.com.br/saude/tratamentos-gripe/melhor-mascara-covid/",
+            "status": "v"
+        },
+        {
+            "id": 26,
+            "link": "https://www.gazetadopovo.com.br/ideias/covid-19-as-mascaras-continuam-a-nao-funcionar/",
+            "status": "f"
+        },
+        {
+            "id": 27,
+            "link": "https://www.uol.com.br/vivabem/noticias/redacao/2022/03/01/mascaras-de-pano-apresentam-baixa-protecao-contra-covid-19-diz-estudo.htm",
+            "status": "v"
+        },
+        {
+            "id": 28,
+            "link": "https://exame.com/ciencia/omicron-especialistas-nao-recomendam-mascaras-de-pano-ou-cirurgicas/",
+            "status": "v"
+        },
+        {
+            "id": 29,
+            "link": "https://www.dw.com/pt-br/jornalista-americano-morre-durante-jogo-da-argentina-na-copa/a-64056650",
+            "status": "v"
+        },
+        {
+            "id": 30,
+            "link": "https://tntsports.com.br/tntsportsnoqatar/Qatar-tenta-subornar-jogadores-do-Equador-por-derrota-na-estreia-da-Copa-diz-jornal-20221118-0008.html",
+            "status": "f"
+        },
+        {
+            "id": 31,
+            "link": "https://jc.ne10.uol.com.br/blogs/torcedor/2022/11/15123459-escandalo-catar-oferece-valor-milionario-para-subornar-equatorianos-na-copa-do-mundo-diz-jornalista.html",
+            "status": "f"
+        }
+    ]
+}
